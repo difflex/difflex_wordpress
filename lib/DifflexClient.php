@@ -3,6 +3,7 @@
 /*
 Copyright Difflex https://difflex.ru
 This file is part of the difflex-for-woocommerce plugin created by Difflex.
+Documentation https://github.com/difflex/difflex_php_client
 */
 
 class DifflexClient {

@@ -123,7 +123,7 @@ class Difflex
   }
 
   private static function request($name, $default=null) {
-    return (isset($_REQUEST[$name])) ? $_REQUEST[$name] : $default;
+    return (isset($_REQUEST[$name])) ? sanitize_text_field($_REQUEST[$name]) : $default;
   }
 
   public static function difflex_main() {

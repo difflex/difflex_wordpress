@@ -9,12 +9,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires PHP: 5.2
 Donate link: http://difflex.com/?utm_source=wordpress&utm_medium=referral&utm_campaign=wordpress_plugin
 
-Difflex scenarios is a solution designed specifically for the online stores.
-
 == Description ==
 
 Integration for Difflex e-commerce Service.
-Use ready-made scenarios or create your own. Customize widgets and mail messages to increase conversion in the online store.
+Difflex scenarios is a solution designed specifically for the online stores.
+The service is designed to create trigger scenarios for displaying widgets and sending emails, collecting user data.
+
+Note: This plugin transmits data from your website to an external service https://difflex.ru in accordance with the user privacy policy https://difflex.ru/terms-and-policies/
+This data includes user data, browsing pages, shopping cart data, purchases and statuses.
+The service does not transfer the personal data to third parties, protects personal data from unauthorized access and deletes it on owner's requirement.
 
 == Installation ==
 
